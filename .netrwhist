@@ -1,6 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/Users/sebastienlachance/Dev/kikipat/.git'
 let g:netrw_dirhist_2='/Users/sebastienlachance/Dev/blog/config'
 let g:netrw_dirhist_3='/Users/sebastienlachance/projects/blog/.git'
 let g:netrw_dirhist_4='/Users/sebastienlachance/projects/blog/source/_posts'
+let g:netrw_dirhist_5='/Users/sebastienlachance/projects/blog/public/blog/method-decorators-in-ruby'
+let g:netrw_dirhist_6='/Users/sebastienlachance/projects/blog/public/blog/ruby-and-nested-classes'
